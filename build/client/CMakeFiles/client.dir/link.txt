@@ -1,0 +1,1 @@
+clang++ -g -Wall  -O0 -Wall -g -ggdb CMakeFiles/client.dir/Client.cpp.o CMakeFiles/client.dir/Main.cpp.o CMakeFiles/client.dir/Tunnel.cpp.o CMakeFiles/client.dir/local_conn.cpp.o -o client  ../base/libbase.a -lpthread 

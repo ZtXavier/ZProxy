@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a CMakeFiles/base.dir/Buffer.cpp.o CMakeFiles/base.dir/Channel.cpp.o CMakeFiles/base.dir/Ctl_conn.cpp.o CMakeFiles/base.dir/Epoll.cpp.o CMakeFiles/base.dir/EventLoop.cpp.o CMakeFiles/base.dir/EventLoopThread.cpp.o CMakeFiles/base.dir/EventLoopThreadPool.cpp.o CMakeFiles/base.dir/Msg.cpp.o CMakeFiles/base.dir/Proxy_conn.cpp.o CMakeFiles/base.dir/Util.cpp.o
+/usr/bin/ranlib libbase.a

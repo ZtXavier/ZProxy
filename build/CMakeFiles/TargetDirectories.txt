@@ -1,0 +1,12 @@
+/home/zt/program/ZProxy/ZProxy/build/CMakeFiles/clang-tidy.dir
+/home/zt/program/ZProxy/ZProxy/build/CMakeFiles/edit_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/CMakeFiles/rebuild_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/base/CMakeFiles/base.dir
+/home/zt/program/ZProxy/ZProxy/build/base/CMakeFiles/edit_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/base/CMakeFiles/rebuild_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/server/CMakeFiles/server.dir
+/home/zt/program/ZProxy/ZProxy/build/server/CMakeFiles/edit_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/server/CMakeFiles/rebuild_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/client/CMakeFiles/client.dir
+/home/zt/program/ZProxy/ZProxy/build/client/CMakeFiles/edit_cache.dir
+/home/zt/program/ZProxy/ZProxy/build/client/CMakeFiles/rebuild_cache.dir

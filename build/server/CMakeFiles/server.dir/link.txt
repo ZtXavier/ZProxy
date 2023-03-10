@@ -1,0 +1,1 @@
+clang++ -g -Wall  -O0 -Wall -g -ggdb CMakeFiles/server.dir/Control.cpp.o CMakeFiles/server.dir/Main.cpp.o CMakeFiles/server.dir/Public_conn.cpp.o CMakeFiles/server.dir/Server.cpp.o CMakeFiles/server.dir/Tunnel.cpp.o -o server  ../base/libbase.a -lpthread 

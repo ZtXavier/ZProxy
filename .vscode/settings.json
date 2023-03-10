@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "channel.h": "c",
+        "public_conn.h": "c"
+    }
+}
